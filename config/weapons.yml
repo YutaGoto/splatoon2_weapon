@@ -1,0 +1,13 @@
+splattershot_jr:
+  type: shooter
+  name:
+    default: わかばシューター
+    english: Splattershot Jr
+  sub_weapon:
+    name:
+      default: スプラボム
+      english: Splat Bomb
+  special:
+    name:
+      default: インクアーマー
+      english: Ink Armor
